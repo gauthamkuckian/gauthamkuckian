@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Autopilot](https://github.com/gauthamkuckian/Autopilot)
 
-- 🌱 I’m currently learning **Computer Science and Engineering(Data Science))**
+- 🌱 I’m currently learning **Computer Science and Engineering(Data Science)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/gauthamkuckian](https://github.com/gauthamkuckian)
 
