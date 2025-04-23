@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Gautham!<br><br>👨‍💻 I'm a computer science enthusiast with a passion for machine learning and artificial intelligence. I'm proficient in Python and have experience in developing AI/ML solutions using TensorFlow and Keras.<br><br>⚽️🎸 When I'm not coding, you can find me on the field playing football or strumming my guitar.<br><br>🚀 I've always enjoyed exploring new technologies and developing innovative solutions. My goal is to work in the field of computer vision and develop AI-powered applications that can improve people's lives.<br><br>Thanks for stopping by! Feel free to check out my GitHub profile and connect with me on LinkedIn.
+Hi, I'm Gautham!<br><br>👨‍💻 I'm a computer science enthusiast with a passion for data engineering. I'm proficient in Python and have experience in developing AI/ML solutions using TensorFlow and Keras.<br><br>⚽️🎸 When I'm not coding, you can find me on the field playing football or strumming my guitar.<br><br>🚀 I've always enjoyed exploring new technologies and developing innovative solutions. My goal is to work in the field of computer vision and develop AI-powered applications that can improve people's lives.<br><br>Thanks for stopping by! Feel free to check out my GitHub profile and connect with me on LinkedIn.
 
 
 ## 🌐 Socials:
